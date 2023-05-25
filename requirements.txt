@@ -22,3 +22,5 @@ tornado==6.2
 typing_extensions==4.6.2
 urllib3_secure_extra==0.1.0
 opencv-python
+requests
+gdown
