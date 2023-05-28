@@ -30,7 +30,7 @@ were achieved in lesser number of epochs i.e. at 79 epochs. For more details ref
 
 ![Screenshot 2023-05-28 at 1 56 11 PM](https://github.com/iqrabismii/DeepLearningProject/assets/108056063/0fea5773-7cac-4f24-abf1-ac2485eda931)
 
-Also, the results were compared with other pretrained model. From the image above we can see the that ArtifyGAN is able to preserve both content as well as comic style of the image. 
+Also, the results were compared with other pretrained model such as JojoGAN, StyleGAN, AnimeGAN. From the image above we can see the that ArtifyGAN is able to preserve both content as well as comic style of the image. 
 
 ## Implementation
 To implement the model, refer to this [notebook.](https://github.com/iqrabismii/DeepLearningProject/blob/main/ArtifyGAN.ipynb)
