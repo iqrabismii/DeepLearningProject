@@ -38,6 +38,8 @@ To implement the model, refer to this [notebook.](https://github.com/iqrabismii/
 
 ## To generate Cartoon Images
 
+Install the Python Anaconda Environment and download the zip folder from the repository.Using the command prompt, navigate to the directory of the folder.
+
 ### For Mac, run the following command 
 
 1. python3 -m venv myenv
